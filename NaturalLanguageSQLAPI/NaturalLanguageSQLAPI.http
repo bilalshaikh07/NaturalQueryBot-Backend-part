@@ -1,0 +1,6 @@
+@NaturalLanguageSQLAPI_HostAddress = http://localhost:5277
+
+GET {{NaturalLanguageSQLAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
